@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">W1D3Camera</string>
+    <string name="title_activity_camera">CameraActivity</string>
+    <string name="title_activity_slider">SliderActivity</string>
+</resources>
